@@ -114,7 +114,7 @@ export const ProfessionalProjects = () => {
             transition: { duration: 0.2 },
           }}
         >
-          <h3>Wework India</h3>
+          <h3>WeWork India</h3>
           <p>
             Wework is a business analysis platform that provides product
             insights, feasibility projections, decision-making tools, activity
@@ -126,6 +126,28 @@ export const ProfessionalProjects = () => {
             <span>TypeScript</span>
             <span>React Query</span>
             <span>Firebase</span>
+          </div>
+        </motion.div>
+        <motion.div
+          className="project-card"
+          variants={fadeInUp}
+          whileHover={{
+            y: -10,
+            transition: { duration: 0.2 },
+          }}
+        >
+          <h3>For Management</h3>
+          <p>
+            For Management is a SaaS task management platform designed to
+            streamline daily workflows, enhance productivity, and improve team
+            collaboration through an organized and intuitive system.
+          </p>
+          <div className="project-tech">
+            <span>Bootstrap</span>
+            <span>React Apex Charts</span>
+            <span>TypeScript</span>
+            <span>Axios</span>
+            <span>RTK</span>
           </div>
         </motion.div>
         <motion.div
