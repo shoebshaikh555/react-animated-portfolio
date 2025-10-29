@@ -47,7 +47,7 @@ export const ProfessionalProjects = () => {
             transition: { duration: 0.2 },
           }}
         >
-          <h3>Hollywood ERP Project</h3>
+          <h3>Hollywood ERP Application</h3>
           <p>
             This is an ERP platform designed for Hollywood production
             houses, streamlining operations, asset management, and workflow
@@ -199,7 +199,7 @@ export const ProfessionalProjects = () => {
             transition: { duration: 0.2 },
           }}
         >
-          <h3>E-commerce Web Applicatio</h3>
+          <h3>E-commerce Web Application</h3>
           <p>
             E-commerce web application that connects
             customers with local sellers, enabling easy product browsing, secure
