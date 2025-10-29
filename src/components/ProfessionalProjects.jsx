@@ -47,9 +47,9 @@ export const ProfessionalProjects = () => {
             transition: { duration: 0.2 },
           }}
         >
-          <h3>Cut Solutions</h3>
+          <h3>Hollywood ERP Project</h3>
           <p>
-            Cut Solutions is an ERP platform designed for Hollywood production
+            This is an ERP platform designed for Hollywood production
             houses, streamlining operations, asset management, and workflow
             coordination to deliver faster and more efficient film production.
           </p>
@@ -69,9 +69,9 @@ export const ProfessionalProjects = () => {
             transition: { duration: 0.2 },
           }}
         >
-          <h3>Home Education</h3>
+          <h3>Learning Management System</h3>
           <p>
-            Home Education is a collaborative Learning Management System that
+            Collaborative Learning Management System that
             empowers students and teachers to create and attend online classes
             seamlessly from anywhere.
           </p>
@@ -92,9 +92,9 @@ export const ProfessionalProjects = () => {
             transition: { duration: 0.2 },
           }}
         >
-          <h3>Islamic Bank</h3>
+          <h3>FinTech Application</h3>
           <p>
-            Islamic Bank is a loan management web application designed to
+            Loan management web application designed to
             enhance efficiency and ensure transparency in Shariah-compliant loan
             processing and approval workflows.
           </p>
@@ -114,12 +114,9 @@ export const ProfessionalProjects = () => {
             transition: { duration: 0.2 },
           }}
         >
-          <h3>WeWork India</h3>
+          <h3>Business Analysis Platform</h3>
           <p>
-            Wework is a business analysis platform that provides product
-            insights, feasibility projections, decision-making tools, activity
-            tracking, and comprehensive report generation through smart
-            parameters and data-driven calculations.
+            This business analysis platform delivers product insights, feasibility projections, decision-making tools, activity tracking, and detailed report generation through smart parameters and data-driven calculations.
           </p>
           <div className="project-tech">
             <span>Fluent UI</span>
@@ -136,9 +133,9 @@ export const ProfessionalProjects = () => {
             transition: { duration: 0.2 },
           }}
         >
-          <h3>For Management</h3>
+          <h3>SaaS Application</h3>
           <p>
-            For Management is a SaaS task management platform designed to
+            SaaS task management platform designed to
             streamline daily workflows, enhance productivity, and improve team
             collaboration through an organized and intuitive system.
           </p>
@@ -158,9 +155,9 @@ export const ProfessionalProjects = () => {
             transition: { duration: 0.2 },
           }}
         >
-          <h3>Any Repair</h3>
+          <h3>On-Demand Service Application</h3>
           <p>
-            Any Repair is an on-demand service application that connects
+            On-demand service application that connects
             customers with trusted technicians, delivering fast and convenient
             repair services right at their doorstep.
           </p>
@@ -180,9 +177,9 @@ export const ProfessionalProjects = () => {
             transition: { duration: 0.2 },
           }}
         >
-          <h3>Emergency Click</h3>
+          <h3>Emergency Management Platform</h3>
           <p>
-            Emergency Click is a web platform that manages SOS alerts and
+            Web platform that manages SOS alerts and
             coordinates real-time responses, connecting citizens with
             authorities to ensure faster and more effective emergency support.
           </p>
@@ -202,9 +199,9 @@ export const ProfessionalProjects = () => {
             transition: { duration: 0.2 },
           }}
         >
-          <h3>Local Market</h3>
+          <h3>E-commerce Web Applicatio</h3>
           <p>
-            Local Market is an e-commerce web application that connects
+            E-commerce web application that connects
             customers with local sellers, enabling easy product browsing, secure
             purchasing, and a seamless online shopping experience.
           </p>
@@ -224,9 +221,9 @@ export const ProfessionalProjects = () => {
             transition: { duration: 0.2 },
           }}
         >
-          <h3>Up4coffee</h3>
+          <h3>Social Media App</h3>
           <p>
-            Up4Coffee is a social networking platform that helps people connect
+            Social networking platform that helps people connect
             over shared interests, discover nearby coffee meetups, and build
             meaningful conversations in a casual community space.
           </p>
