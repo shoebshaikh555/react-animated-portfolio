@@ -87,4 +87,4 @@ If you want to collaborate or have any inquiries:
 
 **Shoeb Shaikh**  
 LinkedIn: https://www.linkedin.com/in/shoebshaikh555
-Portfolio: https://your-portfolio-link.com
+Portfolio: https://shoeb-shaikh-portfolio-pink.vercel.app
